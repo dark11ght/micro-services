@@ -1,4 +1,4 @@
 package org.shakhrai.dto;
 
-public class InitDto {
+public class UserDto {
 }
