@@ -9,6 +9,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/common.main.iml" filepath="$PROJECT_DIR$/.idea/modules/common.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/common.test.iml" filepath="$PROJECT_DIR$/.idea/modules/common.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/micro-services.iml" filepath="$PROJECT_DIR$/.idea/micro-services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/rest-api.iml" filepath="$PROJECT_DIR$/rest-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rest-api.main.iml" filepath="$PROJECT_DIR$/.idea/modules/rest-api.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/rest-api.test.iml" filepath="$PROJECT_DIR$/.idea/modules/rest-api.test.iml" />
     </modules>
   </component>
 </project>
